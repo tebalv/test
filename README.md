@@ -5,4 +5,4 @@
 ![](https://dcbadge.limes.pink/api/shield/abyl9559)
 [![Proyecto](https://img.shields.io/badge/deploy-online-green)](https://tebalv.github.io/Amigo-secreto/)
 
-<img src="screenshots/gift-icon.png.jpg" alt="drawing" width="200"/>
+<img src="screenshots/gift-icon.png" alt="drawing" width="200"/>

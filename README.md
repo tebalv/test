@@ -1,6 +1,6 @@
 # Amigo Secreto "Challenge Alura"
 
-<img align="right" ![logo]=(tree/main/screenshots/gift-icon.png)
+![logo]=(tree/main/screenshots/gift-icon.png)
 
 [![Licencia](https://img.shields.io/badge/licence-One-orange)](https://www.oracle.com/ar/education/oracle-next-education/)
 ![](https://dcbadge.limes.pink/api/shield/abyl9559)
